@@ -23,22 +23,25 @@ Este projeto é uma recriação da página inicial do Spotify como parte de uma 
 - **Seções Dinâmicas**: Exibição de playlists, artistas populares e recomendações personalizadas.
 
 ## 📂 Estrutura do Projeto
+
+```plaintext
 spotify-homepage/
 │
-├── api-artists/ # Arquivos relacionados à API de artistas
+├── api-artists/          # Arquivos relacionados à API de artistas
 │
 ├── src/
-│ ├── assets/
-│ │ ├── icons/ # Ícones utilizados na página
-│ │ └── playlist/ # Imagens das playlists
-│ └── styles/
-│ └── styles.css # Estilos personalizados
+│   ├── assets/
+│   │   ├── icons/        # Ícones utilizados na página
+│   │   └── playlist/     # Imagens das playlists
+│   └── styles/
+│       └── styles.css    # Estilos personalizados
 │
-├── index.html # Estrutura principal da página
+├── index.html            # Estrutura principal da página
 │
-├── script.js # Funcionalidades em JavaScript
+├── script.js             # Funcionalidades em JavaScript
 │
-└── search.js # Lógica de busca de artistas e músicas
+└── search.js             # Lógica de busca de artistas e músicas
+
 
 ## 🛠️ Como Executar o Projeto
 
