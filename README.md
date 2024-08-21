@@ -25,7 +25,7 @@ Este projeto é uma recriação da página inicial do Spotify como parte de uma 
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-spotify-homepage/
+spotify-imersao-alura/
 │
 ├── api-artists/          # Arquivos relacionados à API de artistas
 │
