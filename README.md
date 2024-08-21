@@ -23,4 +23,35 @@ Este projeto é uma recriação da página inicial do Spotify como parte de uma 
 - **Seções Dinâmicas**: Exibição de playlists, artistas populares e recomendações personalizadas.
 
 ## 📂 Estrutura do Projeto
+spotify-homepage/
+│
+├── api-artists/ # Arquivos relacionados à API de artistas
+│
+├── src/
+│ ├── assets/
+│ │ ├── icons/ # Ícones utilizados na página
+│ │ └── playlist/ # Imagens das playlists
+│ └── styles/
+│ └── styles.css # Estilos personalizados
+│
+├── index.html # Estrutura principal da página
+│
+├── script.js # Funcionalidades em JavaScript
+│
+└── search.js # Lógica de busca de artistas e músicas
 
+## 🛠️ Como Executar o Projeto
+
+1. **Clone o repositório**: 
+git clone https://github.com/amaralbarbara/spotify-imersao-alura.git
+
+2. **Navegue até o diretório do projeto**:
+cd spotify-imersao-alura
+
+3. **Abra o arquivo `index.html` em seu navegador** para visualizar a página.
+
+## 💡 Próximos Passos
+
+- Implementar funcionalidades dinâmicas, como a troca de playlists ao clicar em uma categoria.
+- Adicionar efeitos de animação para uma experiência mais rica.
+- Otimizar a performance da página para carregamento mais rápido.
