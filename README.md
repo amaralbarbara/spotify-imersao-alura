@@ -45,13 +45,13 @@ spotify-imersao-alura/
 
 ## 🛠️ Como Executar o Projeto
 
-1. **Clone o repositório**: 
+1. Clone o repositório: 
 git clone https://github.com/amaralbarbara/spotify-imersao-alura.git
 
-2. **Navegue até o diretório do projeto**:
+2. Navegue até o diretório do projeto:
 cd spotify-imersao-alura
 
-3. **Abra o arquivo `index.html` em seu navegador** para visualizar a página.
+3. Abra o arquivo `index.html` em seu navegador para visualizar a página.
 
 ## 💡 Próximos Passos
 
